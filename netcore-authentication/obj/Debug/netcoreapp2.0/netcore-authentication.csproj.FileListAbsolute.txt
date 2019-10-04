@@ -1,0 +1,12 @@
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\bin\Debug\netcoreapp2.0\netcore-authentication.deps.json
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\bin\Debug\netcoreapp2.0\netcore-authentication.runtimeconfig.json
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\bin\Debug\netcoreapp2.0\netcore-authentication.runtimeconfig.dev.json
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\bin\Debug\netcoreapp2.0\netcore-authentication.dll
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\bin\Debug\netcoreapp2.0\netcore-authentication.pdb
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\obj\Debug\netcoreapp2.0\netcore-authentication.csprojAssemblyReference.cache
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\obj\Debug\netcoreapp2.0\netcore-authentication.csproj.CoreCompileInputs.cache
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\obj\Debug\netcoreapp2.0\netcore-authentication.AssemblyInfoInputs.cache
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\obj\Debug\netcoreapp2.0\netcore-authentication.AssemblyInfo.cs
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\obj\Debug\netcoreapp2.0\netcore-authentication.dll
+C:\Users\ferhat.ozcollu\source\repos\netcore-authentication\netcore-authentication\obj\Debug\netcoreapp2.0\netcore-authentication.pdb
